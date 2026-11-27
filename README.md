@@ -2,6 +2,8 @@
   <code>Awesome TUIs</code>
 </h1>
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 This is a community maintained list of TUI applications. A TUI application runs in your terminal and has some level of interactivity. Commands included in this list should not wrap other interactive commands (e.g. `fzf`), and should be maintained.
 
 I made a video of my favorite TUIs from this list (one from each section). Click the image to check it out. 👇
